@@ -6,6 +6,7 @@ public class Circle : GeometricShape
 
     public Circle(double radius)
     {
+        if (radius <= 0) throw new ArgumentException("Передан не валидный радиус (должен быть больше нуля)");
         Radius = radius;
     }
 

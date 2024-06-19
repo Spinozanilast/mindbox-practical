@@ -1,0 +1,11 @@
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\bin\Debug\net8.0\Geometry.Figures.deps.json
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\bin\Debug\net8.0\Geometry.Figures.dll
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\bin\Debug\net8.0\Geometry.Figures.pdb
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.AssemblyInfoInputs.cache
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.AssemblyInfo.cs
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.csproj.CoreCompileInputs.cache
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.dll
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\refint\Geometry.Figures.dll
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\Geometry.Figures.pdb
+D:\Projects\mindbox-practical\GeometryLibrary\Geometry.Figures\obj\Debug\net8.0\ref\Geometry.Figures.dll
